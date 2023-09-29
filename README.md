@@ -19,7 +19,7 @@
 If you want to contact me I'm currently only on discord
 but feel free to reach out if want to discuss anything or just have a chat!
 
-![SVG Icon](./discord.svg) Discord: tiredy [^No Numbers?]
+![SVG Icon](./discord.svg) Discord: tiredy [^numbers]
 ## Skills
 
 **Languages:**
@@ -59,4 +59,4 @@ I'm currently working towards:
 Thanks for visiting my github profile! There may not be much here at the moment but I'm working on changing that!
 
 ## Notes
-[^No Numbers?]: Discord has recently changed and now the numbers aren't required.
+[^numbers]: Where's the #1234? - Discord has recently changed and now the numbers aren't required.
