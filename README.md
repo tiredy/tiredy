@@ -6,13 +6,16 @@
 
 - 🌱 Aspiring beginner/junior developer
 - 🌈 Pronouns: any, i don't care.. 🗿
-- 💻 Knowledge in (java)Java, (javascript)JS and (cpp)C++
+- 💻 Knowledge in Java, JS and C++
 - 🚀 Working on personal projects to enhance my skills
 - 🎯 Eager to learn new things and collaborate on projects
 
 ## My Projects
 
-🕸️ Coming soon.. 🕸️
+🕸️ Not much here right now, i'll add more soon! 🕸️
+
+- [sleepy](https://github.com/tiredy/sleepy)
+   - A Gradle library for minecraft plugins, unfinished..
 
 ## Social
 
@@ -33,6 +36,7 @@ but feel free to reach out if want to discuss anything or just have a chat!
   - ![SVG Icon](./vscode.svg) VS Code
   - ![SVG Icon](./intellij.svg) IntelliJ Idea
   - ![SVG Icon](./clion.svg) CLion
+  - 
   
 - System:
   - ![SVG Icon](./suse.svg) OpenSuse
@@ -49,9 +53,9 @@ but feel free to reach out if want to discuss anything or just have a chat!
 
 I'm currently working towards:
 
-- Expanding my knowledge in cmake and git.
+- Expanding my knowledge in CMake and Git.
 - Learning to contribute to open-source projects.
-- Improving my skills in java and c++.
+- Improving my skills in Java and C++.
 - Creating my personal webpage.
 
 ## Thank You
