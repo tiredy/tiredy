@@ -63,4 +63,4 @@ I'm currently working towards:
 Thanks for visiting my github profile! There may not be much here at the moment but I'm working on changing that!
 
 ## Notes
-[^numbers]: Where's the #1234? - Discord has recently changed and now the numbers aren't required.
+[^numbers]: Where's the numbers eg; #1234? - Discord has recently changed it's system and now users can have a username without the numbers.
