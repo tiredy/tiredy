@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hey, I'm *tiredy*
 
 👋 Welcome to my GitHub profile! I'm an aspiring software developer with a passion for coding! While I'm not currently employed as a developer, I'm actively working on honing my skills and building projects to gain hands-on experience.
