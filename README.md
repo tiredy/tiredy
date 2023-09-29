@@ -36,7 +36,7 @@ but feel free to reach out if want to discuss anything or just have a chat!
   - ![SVG Icon](./vscode.svg) VS Code
   - ![SVG Icon](./intellij.svg) IntelliJ Idea
   - ![SVG Icon](./clion.svg) CLion
-  - 
+  - ![SVG Icon](./visualstudio.svg) Visual Studio
   
 - System:
   - ![SVG Icon](./suse.svg) OpenSuse
