@@ -14,9 +14,6 @@
 
 🕸️ Not much here right now, i'll add more soon! 🕸️
 
-- [sleepy](https://github.com/tiredy/sleepy)
-   - A Gradle library for minecraft plugins, unfinished..
-
 ## Social
 
 If you want to contact me I'm currently only on discord
